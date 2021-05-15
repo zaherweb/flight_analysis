@@ -22,6 +22,16 @@ Data columns (total 22 columns) .
 ![alt text](chart_selection.jpg)
 
 
+
+
+## some of visualizations
+![alt text](images/download (1).png)
+![alt text](images/download (2).png)
+![alt text](images/download (3).png)
+![alt text](images/download.png)
+
+
+
 ## Key_insights
 * chosing the best month for a trip is not easy as we saw before we might get cheap ticket , but we may have high probability of delay or cancelation . 
 * weather affects appear in both summer and winter . 
