@@ -26,8 +26,11 @@ Data columns (total 22 columns) .
 
 ## some of visualizations
 ![alt text](images/download (1).png)
+
 ![alt text](images/download (2).png)
+
 ![alt text](images/download (3).png)
+
 ![alt text](images/download.png)
 
 
